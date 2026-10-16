@@ -1,4 +1,4 @@
-# Autoregressive Text Generation on *Pride and Prejudice* — Simple RNN vs Bidirectional RNN vs LSTM vs GRU
+# Autoregressive Text Generation on *Pride and Prejudice* :Simple RNN vs Bidirectional RNN vs LSTM vs GRU
 
 **Course:** Foundations of Generative AI (ICT4403) — Assignment 2
 **Author:** _Riddhima Jain (230953108)_
