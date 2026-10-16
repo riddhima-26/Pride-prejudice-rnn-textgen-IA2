@@ -1,0 +1,5 @@
+Model,Parameters,Test loss,Test perplexity,Top-1 accuracy,Top-5 accuracy,Best val loss,Epochs run,Best epoch,Sec / epoch,Total train time (s),ms / generated word
+Simple RNN,1501542,4.8837,132.1186,0.1616,0.3754,4.7754,11,8,26.7623,310.8877,33.4717
+Bidirectional RNN,2604134,4.9984,148.1817,0.156,0.3577,4.8912,8,5,39.7647,318.2337,62.0778
+LSTM,1775718,4.7794,119.0328,0.1752,0.3909,4.6637,13,10,64.209,860.272,45.4583
+GRU,1685094,4.67,106.7003,0.1816,0.4054,4.5755,10,7,72.6424,726.55,57.5636

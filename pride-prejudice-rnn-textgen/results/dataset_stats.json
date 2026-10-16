@@ -1,0 +1,16 @@
+{
+ "characters": 684810,
+ "chapters": 61,
+ "paragraphs": 2124,
+ "sentences (approx.)": 5775,
+ "words": 122165,
+ "unique words (case-insensitive)": 6380,
+ "mean sentence length (words)": 21.2,
+ "tokens": 139158,
+ "vocabulary_size": 3950,
+ "unk_rate": 0.0173,
+ "train_sequences": 111306,
+ "val_sequences": 13896,
+ "test_sequences": 13896,
+ "seq_len": 20
+}

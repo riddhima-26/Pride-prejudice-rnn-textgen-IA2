@@ -1,0 +1,5 @@
+Model,Parameters,Test perplexity,Top-1 accuracy,Top-5 accuracy,Total train time (s),ms / generated word,Distinct-2 @T=1,Repetition @T=1,Bigram plaus. @T=1
+Simple RNN,1501542,132.1186,0.1616,0.3754,310.8877,33.4717,0.9728,0.0023,0.6978
+Bidirectional RNN,2604134,148.1817,0.156,0.3577,318.2337,62.0778,0.9955,0.0,0.5911
+LSTM,1775718,119.0328,0.1752,0.3909,860.272,45.4583,0.9864,0.0,0.6556
+GRU,1685094,106.7003,0.1816,0.4054,726.55,57.5636,0.9932,0.0,0.7356
